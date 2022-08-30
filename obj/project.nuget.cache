@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVzbN47GehyvKAPD7zcsH4/LkAkoY/LKMFmvFzCpOATScIPEnS3p6grVHZcqUgcr/3bUoqS8UvQbPyAE1uh15w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\LinkedListApp\\LinkedListApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

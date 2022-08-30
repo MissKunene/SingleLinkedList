@@ -1,0 +1,16 @@
+C:\Users\lab_services_student\source\repos\LinkedListApp\bin\Debug\netcoreapp3.1\LinkedListApp.exe
+C:\Users\lab_services_student\source\repos\LinkedListApp\bin\Debug\netcoreapp3.1\LinkedListApp.deps.json
+C:\Users\lab_services_student\source\repos\LinkedListApp\bin\Debug\netcoreapp3.1\LinkedListApp.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\LinkedListApp\bin\Debug\netcoreapp3.1\LinkedListApp.runtimeconfig.dev.json
+C:\Users\lab_services_student\source\repos\LinkedListApp\bin\Debug\netcoreapp3.1\LinkedListApp.dll
+C:\Users\lab_services_student\source\repos\LinkedListApp\bin\Debug\netcoreapp3.1\LinkedListApp.pdb
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.Form1.resources
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.dll
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.pdb
+C:\Users\lab_services_student\source\repos\LinkedListApp\obj\Debug\netcoreapp3.1\LinkedListApp.genruntimeconfig.cache
